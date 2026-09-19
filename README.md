@@ -274,14 +274,4 @@ Demo Video Link:
 https://youtu.be/ftyBOX059p0
 ---
 
-## 👩‍💻 Developer
 
-**Pramila Sai Lakshmi Alli**
-
-B.Tech – Artificial Intelligence and Machine Learning
-
-Aditya College of Engineering and Technology
-
----
-
-## 🔗 GitHub Repository
